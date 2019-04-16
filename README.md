@@ -7,21 +7,21 @@ http://www.gulag.org.mx/entradas/2019-09-01-avances-congreso-2019.html
 
 ## Asuntos a resolver:
 
-* Detalles de la sede.
-* Talleres.
-* Poster
-** Publicidad.
-** Reconocimientos.
-** Gafetes.
-* Viáticos.
-** Avión.
-** Hospedaje.
-** Comidas.
-* Obtención de recursos:
-** Patrocinadores.
-** Donaciones.
-** Video de agradecimiento.
-* Obsequio a conferencistas.
-* Streaming.
-** RiveOnLine.
-** VideoStreaming.
+1. Detalles de la sede.
+2. Talleres.
+3. Poster
+    * Publicidad.
+    * Reconocimientos.
+    * Gafetes.
+4. Viáticos.
+    * Avión.
+    * Hospedaje.
+    * Comidas.
+5. Obtención de recursos:
+    * Patrocinadores.
+    * Donaciones.
+    * Video de agradecimiento.
+6. Obsequio a conferencistas.
+7. Streaming.
+    * RiveOnLine.
+    * VideoStreaming.
