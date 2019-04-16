@@ -8,20 +8,21 @@ http://www.gulag.org.mx/entradas/2019-09-01-avances-congreso-2019.html
 ## Asuntos a resolver:
 
 1. Detalles de la sede.
-2. Talleres.
-3. Poster
+2. ~~Conferencias.~~
+3. Talleres.
+4. Poster
     * Publicidad.
     * Reconocimientos.
     * Gafetes.
-4. Viáticos.
+5. Viáticos.
     * Avión.
     * Hospedaje.
     * Comidas.
-5. Obtención de recursos:
+6. Obtención de recursos:
     * Patrocinadores.
     * Donaciones.
     * Video de agradecimiento.
-6. Obsequio a conferencistas.
-7. Streaming.
+7. Obsequio a conferencistas.
+8. Streaming.
     * RiveOnLine.
     * VideoStreaming.
