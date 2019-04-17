@@ -23,6 +23,8 @@ http://www.gulag.org.mx/entradas/2019-09-01-avances-congreso-2019.html
     * Donaciones.
     * Video de agradecimiento.
 7. Obsequio a conferencistas.
-8. Streaming.
+8. Rueda de medios.
+    * Comida.
+9. Streaming.
     * RiveOnLine.
     * VideoStreaming.
